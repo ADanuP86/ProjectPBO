@@ -5,7 +5,8 @@ Penggunaan simbol class data parkir mempunyai controller menggunakan gambar ketu
 
 <img width="455" alt="Class Diagram Project JavaFXKel" src="https://user-images.githubusercontent.com/77543408/105125618-69a52600-5b0f-11eb-8d9c-2e573d072e66.PNG">
 
-hgsasak
+
+ER diagram, class data parkir mempunyai class controlerr sehingga data yang ada dapaat diubah, class form menjalankan controller dan class ConnectionDB mengkoneksikan ke database sehingga data dapat di baca oleh controller.
 
 
 
