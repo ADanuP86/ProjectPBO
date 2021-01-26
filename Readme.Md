@@ -10,7 +10,7 @@ Class diagram ini mempunyai class deklarasi data, form tampilan, koneksi databas
 Penggunaan simbol class data parkir mempunyai controller menggunakan gambar ketupat di class controller nya, kemudian conttroller mempunyai koneksi ke database symbol panah ke arah class ConnectionDB, dan class form mempunyai controller untuk memodofikasi data symbol panah ke controller. 
 
 
-<img width="455" alt="Class Diagram Project JavaFXKel" src="https://user-images.githubusercontent.com/77543408/105125618-69a52600-5b0f-11eb-8d9c-2e573d072e66.PNG">
+<img width="467" alt="Class Diagram Project JavaFXKel" src="https://user-images.githubusercontent.com/77543408/105836134-58708380-5fff-11eb-96e3-b8171dee3a34.PNG">
 
 
 ER diagram, class data parkir mempunyai class controlerr sehingga data yang ada dapaat diubah, class form menjalankan controller dan class ConnectionDB mengkoneksikan ke database sehingga data dapat di baca oleh controller.
