@@ -16,5 +16,4 @@ Penggunaan simbol class data parkir mempunyai controller menggunakan gambar ketu
 ER diagram, class data parkir mempunyai class controlerr sehingga data yang ada dapaat diubah, class form menjalankan controller dan class ConnectionDB mengkoneksikan ke database sehingga data dapat di baca oleh controller.
 
 
-
-<img width="315" alt="ER Project JavaFXKel" src="https://user-images.githubusercontent.com/77543408/105125628-71fd6100-5b0f-11eb-95c1-050aed9c90c1.PNG">
+<img width="316" alt="ER Project JavaFXKel" src="https://user-images.githubusercontent.com/77543408/105836978-94f0af00-6000-11eb-832a-a4ca2417e20e.PNG">
