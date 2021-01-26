@@ -13,7 +13,7 @@ Class diagram ini mempunyai beberapa class diantaranya DataParkir yang memiliki 
 
 -> Symbol : 
 
-Penggunaan simbol "+" pada class DataParkir memiliki artian public karena atribut-atributnya dapat dipakai oleh semua class kemudian DataParkir ini mempunyai class DataParkirControler dengan simbol garis ujung lurus serta ketupat pada ujung satunya berarti class DataParkirControler dapat memodifikasi data yang ada pada class DataParkir, kemudian DataParkirController mempunyai hubungan ke class ConnectDB symbol panah ke arah class ConnectionDB yang fungsinya untuk memodifikasi data yang ada kemudian dimasukkan ke database MYSQL, dan class DataParkirform mempunyai class DataParkirController untuk memodofikasi data melalui UI oleh pengguna symbol panah ke class DataParkirController. 
+Penggunaan simbol "+" pada class DataParkir memiliki artian public karena atribut-atributnya dapat dipakai oleh semua class kemudian DataParkir ini mempunyai class DataParkirControler dengan simbol garis ujung lurus serta ketupat pada ujung satunya berarti class DataParkirController dapat memodifikasi data yang ada pada class DataParkir, kemudian DataParkirController mempunyai hubungan ke class ConnectDB symbol panah ke arah class ConnectionDB yang fungsinya untuk memodifikasi data yang ada kemudian dimasukkan ke database MYSQL, dan class DataParkirform mempunyai class DataParkirController untuk memodofikasi data melalui UI oleh pengguna symbol panah ke class DataParkirController. 
 
 
 <img width="467" alt="Class Diagram Project JavaFXKel" src="https://user-images.githubusercontent.com/77543408/105836134-58708380-5fff-11eb-96e3-b8171dee3a34.PNG">
