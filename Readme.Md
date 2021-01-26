@@ -22,7 +22,7 @@ Penggunaan simbol "+" pada class DataParkir memiliki artian public karena atribu
 # ER Diagram
 -> Penjelasan : 
 
-ER diagram ini mempunyai beberapa class diantaranya DataParkir serta beberapa deklarasi atribut, mempunyai relasi dengan class DataParkirControoler yang berarti class DataParkr dapat dimodifikasi oleh banyak fungsi di class DataParkirController seperti tambah, update, delete, tampil, dan cari sehingga data yang ada dapat dimodifikasi, class DataParkirForm berelasi dengan DataParkirController berfungsi menjalankan class DataParkirController, dan class ConnectionDB berelasi dengan DataParkirController berfungsi mengkoneksikan ke database MYSQL sehingga data dapat di baca oleh class DataParkirController.
+ER diagram ini mempunyai beberapa class diantaranya DataParkir serta beberapa deklarasi atribut, mempunyai relasi dengan class DataParkirControoler yang berarti class DataParkir dapat dimodifikasi oleh banyak fungsi di class DataParkirController seperti tambah, update, delete, tampil, dan cari sehingga data yang ada dapat dimodifikasi, class DataParkirForm berelasi dengan DataParkirController berfungsi menjalankan class DataParkirController, dan class ConnectionDB berelasi dengan DataParkirController berfungsi mengkoneksikan ke database MYSQL sehingga data dapat di baca oleh class DataParkirController.
 
 
 <img width="316" alt="ER Project JavaFXKel" src="https://user-images.githubusercontent.com/77543408/105836978-94f0af00-6000-11eb-832a-a4ca2417e20e.PNG">
