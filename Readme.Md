@@ -1,4 +1,10 @@
-# ProjectPBO
+# ProjectPBO Sistem Input Data Parkir
+Nama Kelompok : - Ananto Danu Prasetyo (1907051034)
+                - Muhammad Khadafi (1907051025)
+-> Sistem ini dapat digunakan untuk penginputan data parkir kendaraan mobil dan motor, supaya dapat terlihat kendaraan yang masuk parkir diwaktu tersebut
+
+
+
 Class diagram ini mempunyai class deklarasi data, form tampilan, koneksi database dan controller untuk berinteraksi dengan data yang akan dijalankan.
 Penggunaan simbol class data parkir mempunyai controller menggunakan gambar ketupat di class controller nya, kemudian conttroller mempunyai koneksi ke database symbol panah ke arah class ConnectionDB, dan class form mempunyai controller untuk memodofikasi data symbol panah ke controller. 
 
